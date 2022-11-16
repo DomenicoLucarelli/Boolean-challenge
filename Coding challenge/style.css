@@ -1,0 +1,61 @@
+body{
+     background-image: url(background.jpg);
+     background-size: cover;
+}
+h1{text-align: center;
+  color:lime;
+  font-size: 25px;
+}
+img{
+width: 150px;}
+
+.immagine{width: 200px;
+margin: auto;
+margin-top:5%; }
+
+nav{text-align: center;
+padding:5px;
+background-color: lime;
+width: 580px;
+margin: auto;
+}
+
+main{width: 600px;
+margin: auto;
+margin-top: 20px;}
+
+h2{display: inline-block;
+color: white;
+font-family: 'Righteous', cursive;
+margin:1px;
+}
+
+p{margin:1px;
+color: white;
+}
+
+.arancione{color:orange;
+border:orange solid 10px;
+margin-right: 300px;
+border-radius: 10px 10px 10px 10px;
+}
+
+.verde{color:green;
+border:green solid 10px;
+margin-right: 150px;
+border-radius: 10px 10px 10px 10px;
+}
+
+.viola{color:#B0171F;
+border:#B0171F solid 10px;
+margin-right: 450px;
+margin-bottom:auto;
+border-radius: 10px 10px 10px 10px;
+}
+
+.container{width: 900px;
+min-height: 550px;
+background-color:rgba(0,0,0,0.5);
+border-radius:10px 10px 10px 10px;
+margin: auto;
+}
